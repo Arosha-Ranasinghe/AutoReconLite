@@ -1,0 +1,15 @@
+admin
+administrator
+admin/login
+login
+dashboard
+console
+portal
+wp-admin
+phpmyadmin
+backup
+test
+dev
+staging
+api
+swagger
